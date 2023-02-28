@@ -1,0 +1,25 @@
+{
+  "name": "bsuploadexpress",
+  "version": "1.0.0",
+  "description": " анализ и перенос банковских выписок в сетевой каталог",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nubobap2015/bsuploadexpress.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "bank",
+    "statements"
+  ],
+  "author": "nuBoBap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nubobap2015/bsuploadexpress/issues"
+  },
+  "homepage": "https://github.com/nubobap2015/bsuploadexpress#readme"
+}
